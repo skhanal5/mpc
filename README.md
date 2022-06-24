@@ -12,7 +12,7 @@ Build a one way connection from Twitch to YouTube taking in *optimal* Twitch cli
 ## To Do
 
 * Picking optimal algorithm and data source
-* Increaing accuracy of outputted content
-* Support additional social media platforms
-* Add parameterization for the type of content (genre, creator, etc.)
+* Increasing accuracy of outputted content
+* Supporting additional social media platforms
+* Adding parameterization for the type of content (genre, creator, etc.)
 * Automating input to output process
